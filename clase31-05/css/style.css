@@ -1,0 +1,25 @@
+
+h1{
+    color: #005677;
+    background-color :#C4C4C4;
+    text-align: center;
+}
+.fondo{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+p#ultimo{
+    color: bisque;
+    background-color: #005677;
+    text-align: center;
+
+}
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+}
+&nbsp;

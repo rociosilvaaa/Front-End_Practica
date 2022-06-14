@@ -1,0 +1,135 @@
+/* *{
+  
+    box-sizing: border-box;
+}
+header{
+    background-color: #1CD1B0;
+}
+
+header p{  
+     
+    padding: 14px;
+   
+}
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 800px;
+    align-items: center;
+
+}
+h1{
+    background-color: #00669F;
+    /* height: 100px; */
+    /* padding: 30px;
+}
+ .posiciones{
+    
+    width: 300px;
+    height: 500px;
+     background-color: #F3F3F3 ;
+     border-top-left-radius: 20px  ;
+    border-top-right-radius:20px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+     /* margin-top: 150px;
+    margin-left: 20px;   */
+   
+   
+/* } 
+h2{
+    text-align: center;
+    padding-top: 60px;
+
+}
+.imagen{
+    border-radius: 50%;
+    position: relative;
+    top:70px;
+    left: 85px;
+
+}
+.fondo{
+    background-image: url(../img/849bfede3a5193c34ab8a00379e64fa2\ 1.png);
+    /* display: flex; */
+/* }
+p{
+    margin-left: 16px;
+    margin-right: 16px;
+
+}
+.corazon{
+    margin-bottom: 70px;
+    /* right: 50px; */
+   
+/* }
+.boton{
+    background-color: #00669F;
+    width: 128px;
+    height: 48px;
+    color: #F3F3F3;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}    */
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body {  
+    font-family: Roboto, sans-serif;    
+}  
+header{
+    background-color: 
+    #1CD1B0;
+    
+}
+header h1{
+    background-color: #00669F;
+    padding: 28px 868px 26px 28px;
+    
+}
+.descuento{
+    padding: 10px 903px 10px 10px;
+}
+section{
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+.posiciones{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    margin: 293px 32px 598px 32px;
+    background-color: #f3f3f3;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;   
+    box-shadow: 0px 5px 7px 0px rgb(133, 133, 133);
+}
+
+.imagen{
+    border-radius: 50%;
+    position: absolute;
+    right: 95px;
+    top:125px;
+    
+}
+h2{
+    text-align: center;
+    padding-top: 50px;
+   
+}
+.parrafos{
+    padding: 8px 15px 40px 15px;
+}
+.boton{
+    background-color: #00669F;
+    color:white;
+    width: 100px;
+    height: 40px;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    left: 90px;
+}

@@ -1,0 +1,31 @@
+body{
+   background-image: url(https://i.pinimg.com/originals/58/bf/36/58bf36ec51fda19ea8b29df6f0c258d4.jpg);
+}
+body header h1,h2{
+      text-align: center;
+      
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Joan', serif;
+font-family: 'Nuosu SIL', serif;
+font-family: 'Tiro Gurmukhi', serif;
+ color:#15133C;
+}
+
+ul  img {
+    width: 200px;
+}
+body main img{
+    width: 400px;
+    text-align: center;
+}
+.prueba{
+    position:fixed;
+    right:100px;
+    top: 50px;
+    box-sizing: border-box;
+}
+body main section ul  img{
+    width: 10%;
+}
